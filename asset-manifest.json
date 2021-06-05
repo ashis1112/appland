@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/appland/static/css/main.e104624c.chunk.css",
+    "main.js": "/appland/static/js/main.9ce93cb6.chunk.js",
+    "main.js.map": "/appland/static/js/main.9ce93cb6.chunk.js.map",
+    "runtime-main.js": "/appland/static/js/runtime-main.b530fb42.js",
+    "runtime-main.js.map": "/appland/static/js/runtime-main.b530fb42.js.map",
+    "static/js/2.f10a8198.chunk.js": "/appland/static/js/2.f10a8198.chunk.js",
+    "static/js/2.f10a8198.chunk.js.map": "/appland/static/js/2.f10a8198.chunk.js.map",
+    "static/js/3.eea8ce4a.chunk.js": "/appland/static/js/3.eea8ce4a.chunk.js",
+    "static/js/3.eea8ce4a.chunk.js.map": "/appland/static/js/3.eea8ce4a.chunk.js.map",
+    "index.html": "/appland/index.html",
+    "static/css/main.e104624c.chunk.css.map": "/appland/static/css/main.e104624c.chunk.css.map",
+    "static/js/2.f10a8198.chunk.js.LICENSE.txt": "/appland/static/js/2.f10a8198.chunk.js.LICENSE.txt",
+    "static/media/Frame_19.0290bb5a.png": "/appland/static/media/Frame_19.0290bb5a.png",
+    "static/media/homecomponent.css": "/appland/static/media/presentation.2d949a93.png",
+    "static/media/download.52e6d6c5.png": "/appland/static/media/download.52e6d6c5.png",
+    "static/media/feature_1.801589a0.png": "/appland/static/media/feature_1.801589a0.png",
+    "static/media/feature_2.2b466162.png": "/appland/static/media/feature_2.2b466162.png",
+    "static/media/feature_3.0fadb17c.png": "/appland/static/media/feature_3.0fadb17c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b530fb42.js",
+    "static/js/2.f10a8198.chunk.js",
+    "static/css/main.e104624c.chunk.css",
+    "static/js/main.9ce93cb6.chunk.js"
+  ]
+}
